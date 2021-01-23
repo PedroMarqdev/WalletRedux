@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/walletredux/static/css/main.cbc02002.chunk.css",
+    "main.js": "/walletredux/static/js/main.fa3a12bb.chunk.js",
+    "main.js.map": "/walletredux/static/js/main.fa3a12bb.chunk.js.map",
+    "runtime-main.js": "/walletredux/static/js/runtime-main.8687d673.js",
+    "runtime-main.js.map": "/walletredux/static/js/runtime-main.8687d673.js.map",
+    "static/js/2.5cd90c2b.chunk.js": "/walletredux/static/js/2.5cd90c2b.chunk.js",
+    "static/js/2.5cd90c2b.chunk.js.map": "/walletredux/static/js/2.5cd90c2b.chunk.js.map",
+    "index.html": "/walletredux/index.html",
+    "precache-manifest.e23bc8e5a5da97166c090dcca8fb4731.js": "/walletredux/precache-manifest.e23bc8e5a5da97166c090dcca8fb4731.js",
+    "service-worker.js": "/walletredux/service-worker.js",
+    "static/css/main.cbc02002.chunk.css.map": "/walletredux/static/css/main.cbc02002.chunk.css.map",
+    "static/js/2.5cd90c2b.chunk.js.LICENSE.txt": "/walletredux/static/js/2.5cd90c2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8687d673.js",
+    "static/js/2.5cd90c2b.chunk.js",
+    "static/css/main.cbc02002.chunk.css",
+    "static/js/main.fa3a12bb.chunk.js"
+  ]
+}
