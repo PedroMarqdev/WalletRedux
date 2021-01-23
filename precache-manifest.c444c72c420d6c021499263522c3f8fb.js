@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e89142185c837e3751dd17386b5f2338",
+    "revision": "ba66c8bdf6d8afb0d6f6ba753dc28f79",
     "url": "/walletredux/index.html"
   },
   {
-    "revision": "28d6c8d24b553e087ad7",
-    "url": "/walletredux/static/css/main.85154908.chunk.css"
+    "revision": "b73988c2ccf7e2c4fcec",
+    "url": "/walletredux/static/css/main.0ccd6088.chunk.css"
   },
   {
     "revision": "425bb1a48e7506a2407e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/walletredux/static/js/2.5cd90c2b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "28d6c8d24b553e087ad7",
-    "url": "/walletredux/static/js/main.70bd8a97.chunk.js"
+    "revision": "b73988c2ccf7e2c4fcec",
+    "url": "/walletredux/static/js/main.1f57bce7.chunk.js"
   },
   {
     "revision": "cfec520f339885b7d45a",

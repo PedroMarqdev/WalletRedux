@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/walletredux/static/css/main.85154908.chunk.css",
-    "main.js": "/walletredux/static/js/main.70bd8a97.chunk.js",
-    "main.js.map": "/walletredux/static/js/main.70bd8a97.chunk.js.map",
+    "main.css": "/walletredux/static/css/main.0ccd6088.chunk.css",
+    "main.js": "/walletredux/static/js/main.1f57bce7.chunk.js",
+    "main.js.map": "/walletredux/static/js/main.1f57bce7.chunk.js.map",
     "runtime-main.js": "/walletredux/static/js/runtime-main.8687d673.js",
     "runtime-main.js.map": "/walletredux/static/js/runtime-main.8687d673.js.map",
     "static/js/2.5cd90c2b.chunk.js": "/walletredux/static/js/2.5cd90c2b.chunk.js",
     "static/js/2.5cd90c2b.chunk.js.map": "/walletredux/static/js/2.5cd90c2b.chunk.js.map",
     "index.html": "/walletredux/index.html",
-    "precache-manifest.ee0edd9cedea86c1f0810c65cbb111c8.js": "/walletredux/precache-manifest.ee0edd9cedea86c1f0810c65cbb111c8.js",
+    "precache-manifest.c444c72c420d6c021499263522c3f8fb.js": "/walletredux/precache-manifest.c444c72c420d6c021499263522c3f8fb.js",
     "service-worker.js": "/walletredux/service-worker.js",
-    "static/css/main.85154908.chunk.css.map": "/walletredux/static/css/main.85154908.chunk.css.map",
+    "static/css/main.0ccd6088.chunk.css.map": "/walletredux/static/css/main.0ccd6088.chunk.css.map",
     "static/js/2.5cd90c2b.chunk.js.LICENSE.txt": "/walletredux/static/js/2.5cd90c2b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8687d673.js",
     "static/js/2.5cd90c2b.chunk.js",
-    "static/css/main.85154908.chunk.css",
-    "static/js/main.70bd8a97.chunk.js"
+    "static/css/main.0ccd6088.chunk.css",
+    "static/js/main.1f57bce7.chunk.js"
   ]
 }
