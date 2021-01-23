@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/walletredux/login/static/css/main.cbc02002.chunk.css",
-    "main.js": "/walletredux/login/static/js/main.0b852057.chunk.js",
-    "main.js.map": "/walletredux/login/static/js/main.0b852057.chunk.js.map",
-    "runtime-main.js": "/walletredux/login/static/js/runtime-main.a0b1a99a.js",
-    "runtime-main.js.map": "/walletredux/login/static/js/runtime-main.a0b1a99a.js.map",
-    "static/js/2.5cd90c2b.chunk.js": "/walletredux/login/static/js/2.5cd90c2b.chunk.js",
-    "static/js/2.5cd90c2b.chunk.js.map": "/walletredux/login/static/js/2.5cd90c2b.chunk.js.map",
-    "index.html": "/walletredux/login/index.html",
-    "precache-manifest.857198570dc1bc2d3cbb5ed8866d4706.js": "/walletredux/login/precache-manifest.857198570dc1bc2d3cbb5ed8866d4706.js",
-    "service-worker.js": "/walletredux/login/service-worker.js",
-    "static/css/main.cbc02002.chunk.css.map": "/walletredux/login/static/css/main.cbc02002.chunk.css.map",
-    "static/js/2.5cd90c2b.chunk.js.LICENSE.txt": "/walletredux/login/static/js/2.5cd90c2b.chunk.js.LICENSE.txt"
+    "main.css": "/walletredux/static/css/main.cbc02002.chunk.css",
+    "main.js": "/walletredux/static/js/main.633988fc.chunk.js",
+    "main.js.map": "/walletredux/static/js/main.633988fc.chunk.js.map",
+    "runtime-main.js": "/walletredux/static/js/runtime-main.8687d673.js",
+    "runtime-main.js.map": "/walletredux/static/js/runtime-main.8687d673.js.map",
+    "static/js/2.5cd90c2b.chunk.js": "/walletredux/static/js/2.5cd90c2b.chunk.js",
+    "static/js/2.5cd90c2b.chunk.js.map": "/walletredux/static/js/2.5cd90c2b.chunk.js.map",
+    "index.html": "/walletredux/index.html",
+    "precache-manifest.537771895eaceb8aa54669a17f33b181.js": "/walletredux/precache-manifest.537771895eaceb8aa54669a17f33b181.js",
+    "service-worker.js": "/walletredux/service-worker.js",
+    "static/css/main.cbc02002.chunk.css.map": "/walletredux/static/css/main.cbc02002.chunk.css.map",
+    "static/js/2.5cd90c2b.chunk.js.LICENSE.txt": "/walletredux/static/js/2.5cd90c2b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a0b1a99a.js",
+    "static/js/runtime-main.8687d673.js",
     "static/js/2.5cd90c2b.chunk.js",
     "static/css/main.cbc02002.chunk.css",
-    "static/js/main.0b852057.chunk.js"
+    "static/js/main.633988fc.chunk.js"
   ]
 }
